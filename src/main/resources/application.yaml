@@ -59,3 +59,4 @@ server.servlet:
 #    visibility.getter: none
 #    visibility.setter: none
 #    visibility.is-getter: none
+spring.jpa.defer-datasource-initialization: true
